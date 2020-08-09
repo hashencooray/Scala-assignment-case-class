@@ -1,0 +1,1 @@
+# Scala-assignment-case-class
